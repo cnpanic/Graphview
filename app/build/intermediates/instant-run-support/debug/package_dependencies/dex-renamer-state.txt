@@ -1,0 +1,16 @@
+#Sun May 14 20:06:10 KST 2017
+renamed.4=classes4.dex
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes5.dex
+base.4=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_4b80e9c8858d8eaa0e59d65932a19407e15824ef
+renamed.0=classes2.dex
+base.3=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3160e86c624c9c80efbe1dcb9f9f37ee9e637634
+base.2=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_faeea4b10b32650a121e2849c970aed3c693b1d4
+base.1=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/2/GraphView-4.0.1_65aa4e200cb9e1a96b8231fbe4ae96b1a2003dd8
+base.0=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54df723d8ec88da3062638da0bce7915aa26f749
+file.4=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_4b80e9c8858d8eaa0e59d65932a19407e15824ef/classes.dex
+file.3=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3160e86c624c9c80efbe1dcb9f9f37ee9e637634/classes.dex
+file.2=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_faeea4b10b32650a121e2849c970aed3c693b1d4/classes.dex
+file.1=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/2/GraphView-4.0.1_65aa4e200cb9e1a96b8231fbe4ae96b1a2003dd8/classes.dex
+file.0=/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54df723d8ec88da3062638da0bce7915aa26f749/classes.dex

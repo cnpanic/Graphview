@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/.android/build-cache/68631ba150c9b17df9b480240d490db0beef807a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3160e86c624c9c80efbe1dcb9f9f37ee9e637634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/libs/GraphView-4.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd182a66f13dedad362bfbf992be96de2be5969">
+        <dex dex="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/2/GraphView-4.0.1_65aa4e200cb9e1a96b8231fbe4ae96b1a2003dd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/.android/build-cache/e79152ebfe7a7ced84c3d4c316a35ae15320c41e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54df723d8ec88da3062638da0bce7915aa26f749/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5de4314bcbcff597f023745657a021c37c77cda">
+        <dex dex="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3d71be2cf5bc3d614313e889d7ca4b9213e92244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_4b80e9c8858d8eaa0e59d65932a19407e15824ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_db2a64b2fc9f3e9bebc6db39c0cc62c19a39dbd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/.android/build-cache/68631ba150c9b17df9b480240d490db0beef807a/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/proMACBOOK/Desktop/Desk/AndroidStudioProjects/GraphView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_faeea4b10b32650a121e2849c970aed3c693b1d4/classes.dex" />
+    </item>
+
+</items>
